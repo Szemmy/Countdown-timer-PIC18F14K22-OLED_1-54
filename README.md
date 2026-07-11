@@ -1,6 +1,6 @@
 Az alábbi projekt egy vissza számlálót valósít meg. óra perc másodperc beálítási lehetőséggel. 
 UP/DOWN a fel le értékeket állítja,a next az óra perc másodperc kiválasztást teszi lehetővé. 
-A beálítütt időt a start gombal tudod elindítani.
+A beálított időt a start gombal tudod elindítani.
 inditás után a relé meghúz és a csatlakozón 12v jelenik meg. A start gomb megnyomására az
 időzités szünetel. Ha lejárt az idő hang jelzés és led villogás figyelmeztet. 
 Bármelyik gombal vissza lép az idő megadáshoz. Itt a start gomb hosszu nyomására kb 2mp
